@@ -3,7 +3,7 @@
 ## DATE: 
 
 
-# <p align = "center"> MULTI-CLASS-CLASSIFICATION </p># MULTI-CLASS-CLASSIFICATION
+# <p align = "center"> MULTI-CLASS-CLASSIFICATION </p>
 ## Aim:
 To write a python program to implement the multi class classification algorithm .
 
